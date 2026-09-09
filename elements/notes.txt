@@ -1,0 +1,12 @@
+1. state - memory of the application
+2. node - individual functions that perform a specific task within a graph
+3. graph - how nodes are connected and executed
+4. edge - connection between 2 nodes
+5. conditional edge - special edges which decide which node to execute next based on some condition or logic in the current state
+6. start node - entry point to workflow | no other purpose
+7. end node - conclusion of workflow
+8. Tools - additional capabiilities | external calls - eg to APIs
+9. ToolNode - special node whose main job is to run a tool
+10. StateGraph - class used to build and compile the graph structure | like a blueprint
+11. runnable - standardized, executable component that performs a specific task in a workflow
+12. messages - Human, AI, System, Function, Tool
