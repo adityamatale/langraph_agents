@@ -1,0 +1,13 @@
+Conversation Logs:
+User: hi
+AI: Hello! How can I assist you today?
+User: who are u
+AI: I'm an AI language model created by OpenAI, designed to assist with a variety of questions and tasks. I can provide information, answer questions, help with writing, and more. How can I help you today?
+User: im matty
+AI: Nice to meet you, Matty! How can I assist you today?
+User: what is my name?
+AI: Your name is Matty. How can I help you today, Matty?
+User: ok by
+AI: Goodbye! If you have more questions in the future, feel free to return. Have a great day!
+
+End of Conversation
