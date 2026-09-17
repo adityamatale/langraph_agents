@@ -1,3 +1,7 @@
+# REACT agent: reasoning and acting agent
+# tool calls always return to the llm again before ending the graph 
+
+
 from typing import Annotated, Sequence, TypedDict
 from dotenv import load_dotenv
 from langchain_core.messages import BaseMessage # functional class for all message types in langgraph

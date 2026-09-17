@@ -1,1 +1,5 @@
 .env
+*.txt
+__pycache__/
+STT_openai.py
+TTS_elevenlabs.py
