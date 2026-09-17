@@ -3,3 +3,4 @@
 __pycache__/
 STT_openai.py
 TTS_elevenlabs.py
+chroma_db/
